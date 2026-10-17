@@ -32,4 +32,4 @@
 1200+ problems solved across [Codeforces](https://codeforces.com/profile/Aniket_001), [LeetCode](https://leetcode.com/SwiftNook/), [CodeChef](https://www.codechef.com/users/aniket730) and GFG · Former Technical Lead, GeeksforGeeks Student Chapter (Amity Noida)
 
 ### 🔗 Connect
-[LinkedIn](https://www.linkedin.com/in/aniket-singh-049a85226) · [Portfolio](https://itsaniket.tech/) · work.aniketsingh@gmail.com
+[LinkedIn](https://www.linkedin.com/in/aniketsingh-fullstack) · [Portfolio](https://itsaniket.tech/) · work.aniketsingh@gmail.com
